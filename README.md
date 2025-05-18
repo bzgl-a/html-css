@@ -2,7 +2,7 @@
 
 Веб-сайт, выполненный на HTML и CSS.
 
-#DEMO:
+## DEMO:
 https://bzgl-a.github.io/html-css/
 
 ## Скриншоты
